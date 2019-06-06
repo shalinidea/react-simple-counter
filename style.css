@@ -1,0 +1,29 @@
+#app {
+    text-align: center;
+}
+.counter{
+    display:flex;
+    justify-content: center;
+}
+#app button{
+    margin: 1.5rem
+    width: 150px
+    height: 80px
+}
+.display{
+    font-size: 
+    margin: 
+    background: cyan;
+    height:80px
+    width: 150px
+    text-align:center;
+    line-height: 80px;
+}
+.display-positive {
+    background: blue
+    color: white
+}
+.display-negative {
+    background:red
+    color: white
+}
